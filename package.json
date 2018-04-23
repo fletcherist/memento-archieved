@@ -1,0 +1,21 @@
+{
+  "name": "memento",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "draft-js": "^0.10.5",
+    "eslint-config-standard": "^11.0.0",
+    "firebase": "^4.13.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
